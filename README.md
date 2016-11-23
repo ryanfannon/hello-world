@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello. My name is Ryan Fannon. I'm learning Python and Github. 
+
+Later.
+
